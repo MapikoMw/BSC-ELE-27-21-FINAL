@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+<<<<<<< HEAD
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+=======
+      "cwd": "f:/Onedrive/Desktop/C++ LAB TASKS",
+      "program": "f:/Onedrive/Desktop/C++ LAB TASKS/build/Debug/outDebug",
+>>>>>>> 0edb1ff169d286c6759de883f0f55f043c7336fe
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
